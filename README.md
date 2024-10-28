@@ -1,5 +1,5 @@
 # Ex.No: 08     MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-## NAME : A.Ssidharan
+## NAME : A.Sasidharan
 ## REGISTER NUMBER : 212221240049
 ### Date: 
 
